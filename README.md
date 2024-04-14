@@ -22,7 +22,7 @@ Contributions to this repository are welcome! Check out the [contributing guidel
 
 ## General websites
 
-- [World Xiangqi Association website](https://www.wxf-xiangqi.org/) - Upcoming and past official tournaments. 
+- [World Xiangqi Federation website](https://www.wxf-xiangqi.org/) - Upcoming and past official tournaments.
 - [xqinenglish.com](https://www.xqinenglish.com) - Wide collection of articles on various aspects of the game, featuring embedded interactive boards to visualize the discussed concepts.
 
 ## Websites to play
@@ -64,7 +64,7 @@ All websites allow to play with other people and watch ongoing games.
 - [Chinese Chess: An Introduction to the Openings](https://www.amazon.com/Chinese-Chess-Introduction-Openings-Lai/dp/0954994329)
 - Xiangqi opening trilogy by Master Yan Wenqing and Grandmaster Zhang Qiang
   - 象棋布局定式与战理 (xiangqi opening tabiat and their principles) - Systematic overview of xiangqi openings. Some articles from chapters of the book available [here](https://www.xqinenglish.com/index.php?option=com_content&view=categories&id=112&Itemid=511&lang=en) and some videos discussing the book available [here](https://www.youtube.com/playlist?list=PLSgklQ5Zjutri0MYq6u1Lzav7Mfq62FC6).
-  - [布局骗着与对策 (Deceptions and countermeasures in xiangqi openings)](https://www.xqinenglish.com/index.php?option=com_content&view=category&id=294&Itemid=511&lang=en) - Typical traps in xiangqi opening and how to not fall for them. Video discussions of the book [here](https://www.youtube.com/playlist?list=PLSgklQ5Zjuto1PL3VM9nyMLCFCVdmqPr2). A partial English translation by WXA available [here](https://www.shakki.info/asiakirjat/Deceptive_Play.pdf).
+  - [布局骗着与对策 (Deceptions and countermeasures in xiangqi openings)](https://www.xqinenglish.com/index.php?option=com_content&view=category&id=294&Itemid=511&lang=en) - Typical traps in xiangqi opening and how to not fall for them. Video discussions of the book [here](https://www.youtube.com/playlist?list=PLSgklQ5Zjuto1PL3VM9nyMLCFCVdmqPr2). A partial English translation by WXF available [here](https://www.shakki.info/asiakirjat/Deceptive_Play.pdf).
   - [布局疑形与攻击 (dubious positions and how to attack them)](https://www.xqinenglish.com/index.php?option=com_content&view=category&id=301&Itemid=511&lang=en) - Typical opening mistakes and how to punish them. Video discussions available [here](https://www.youtube.com/playlist?list=PLSgklQ5ZjutoKObSqmSUYS6kK1zlpvE_4).
 - [Xiangqi: The basic of same direction cannon openings](https://www.amazon.com/Xiangqi-Direction-Cannon-Openings-Explained-ebook/dp/B078MCR3V3)
 - [Xiangqi D00-D29 Same Direction Cannons: Modern Xiangqi Opening Repertoire](https://www.amazon.com/Xiangqi-D00-D29-Same-Direction-Cannons/dp/B0CQ4M121J)
@@ -72,9 +72,9 @@ All websites allow to play with other people and watch ongoing games.
 
 ### Tactics / puzzles
 
-- [Xiangqi basic tactics](https://www.shakki.info/asiakirjat/Xq_Tactics.pdf) - Free ebook by WXA about xiangqi tactis.
-- [Basic xiangqi chekmate methods](https://www.shakki.info/asiakirjat/BasicXqCheckmate.pdf) - Free ebook by WXA about common checkmate techniques.
-- [Checkmate Methods in Xiangqi Mid-Games](https://www.shakki.info/asiakirjat/Checkmate_Methods.pdf) - Free ebook by WXA about checkmate tactics frequently occurring during middle game.
+- [Xiangqi basic tactics](https://www.shakki.info/asiakirjat/Xq_Tactics.pdf) - Free ebook by WXF about xiangqi tactis.
+- [Basic xiangqi chekmate methods](https://www.shakki.info/asiakirjat/BasicXqCheckmate.pdf) - Free ebook by WXF about common checkmate techniques.
+- [Checkmate Methods in Xiangqi Mid-Games](https://www.shakki.info/asiakirjat/Checkmate_Methods.pdf) - Free ebook by WXF about checkmate tactics frequently occurring during middle game.
 - [Become a xiangqi assassin 1](https://www.amazon.com/Becoming-Xiangqi-Assassin-Jim-Cheng/dp/9574337758) - Contains several puzzles with discussed solutions in increasing level of difficulty.
 - [Become a xiangqi assassin 2](https://www.amazon.com/Becoming-Xiangqi-Assassin-Jim-Cheng/dp/9574356310) - Contains several puzzles with discussed solutions in increasing level of difficulty.
 
@@ -126,7 +126,7 @@ All websites allow to play with other people and watch ongoing games.
 ## Computer xiangqi
 
 - [Chinese Chess encyclopedia](https://www.xqbase.com/) - Overview of some computer xiangqi concepts and description of ECCO opening classification.
-- [Chinese Chess File Format](https://www.wxf-xiangqi.org/images/computer-xiangqi/chinese-chess-file-format.pdf) - Description of the WXF format by WXA.
+- [Chinese Chess File Format](https://www.wxf-xiangqi.org/images/computer-xiangqi/chinese-chess-file-format.pdf) - Description of the WXF format by WXF.
 - [Computer Chinese Chess](https://www.researchgate.net/publication/298870890_Computer_Chinese_Chess) - Overview of the field. A bit old, but still relevant for the basic concepts.
 - [Tsan-sheng Hsu page](https://homepage.iis.sinica.edu.tw/~tshsu/) - Lecture notes and several research papers on computer xiangqi.  
 - [Xiangqi chess engine in JavaScript](https://www.youtube.com/playlist?list=PLmN0neTso3Jw59oLgLUwSTZ_AO_u-pwWt) - Video tutorials on developing a simple xiangqi engine from scratch in JavaScript.
