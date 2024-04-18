@@ -32,7 +32,7 @@ All websites allow to play with other people and watch ongoing games.
 | **Website** | **Play with computer** | **Analysis board** | **Puzzles** | **Other** |
 |:-----------:|:----------------------:|:------------------:|:-----------:|:---------:|
 | <https://www.xiangqi.com> | pikafish, multiple levels | pikafish | yes | chat, lessons and articles |
-| <https://www.elephantchess.io> | pikafish or fairy-stockfish, multiple levels | pikafish | yes | gamedatabase |
+| <https://elephantchess.io> | pikafish or fairy-stockfish, multiple levels | pikafish | yes | gamedatabase |
 | <https://www.clubxiangqi.com/> | no | no | no | discussion forum |
 | <https://www.pychess.org/> | fairy-stockfish, multiple levels | fairy-stockfish | yes | supports other chess variants, some lessons and articles |
 | <https://www.playok.com/> | no | no | no | supports also other chess variants and board games |
