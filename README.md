@@ -87,16 +87,15 @@ All websites allow to play with other people and watch ongoing games.
 
 ### Ancient manuals
 
-- [Collection of translated ancient manuals by Jim Png Hau Cheng](https://www.amazon.com/dp/B08XZPW5L5)
-  - [Plum Flower Manual by Wang](https://www.amazon.com/gp/product/B07M9HJLLW) - Ancient manual from the Qing dinasty, notorious for being one of the first introducing the screen-horse defense against central cannon.
-  - [Plum Flower Springs Manual](https://www.amazon.com/gp/product/B07Z9XV5ST) - Ancient manual from the Qing dinasty, discussing in details several opening systems. It is also one of the few manuals discussing handicap games.
-  - [Unparalleled and Chong Ben Tang Plum Flower Manuals](https://www.amazon.com/gp/product/B07S8XXTGX) - Ancient manual from the Qing dinasty, which presents puzzles and discusses foundations of the screen-horse defense.
-  - [One Hundred Variations in Xiangqi & Marvelous Variations Xiangqi Manual](https://www.amazon.com/gp/product/B07VBXGSP9) - Collection of endgame compositions and puzzles from the Ming dinasty.
-  - [Dreams of Divine Positions](https://www.amazon.com/gp/product/B077MMZ4TN) - One of the oldest collection of puzzles and endgame compositions.
-  - [Lan Ke Shen Ji](https://www.amazon.com/gp/product/B07WNRVDCG) - Collection of relatively straightforward endgame compositions, suited particularly to train calculation skills.
-  - Secret in the Tangerine, [volume 1](https://www.amazon.com/gp/product/B06Y4F5LS8), [volume 2](https://www.amazon.com/gp/product/B072HW6DCH), [volume 3](https://www.amazon.com/gp/product/B071S2H8XG), [volume 4](https://www.amazon.com/gp/product/B074Y7XGFF) - One of the oldest ancient manuals, considered a fundamental classic on the game.
-  - Elegant pastime manual, [volumes 1 & 2](https://www.amazon.com/gp/product/B06Y4DWQ1X), [volumes 3 & 4](https://www.amazon.com/gp/product/B079KGQS7F), [volumes 5 & 6](https://www.amazon.com/gp/product/B07BB163LN) - Collection of puzzles and endgames compositions from the Ming dinasty. This book is also rich of Chinese culture, with each composition name being a verse from famous Chinese poems.
-  - [Secret record of xiangqi](https://www.amazon.com/Ancient-Xiangqi-Classics-Secret-Record/dp/6260102119) - One of the first book from the Qing dinasty, popular for presenting more complex endgame problems compared to its predecessors.
+- [Plum Flower Manual by Wang](https://www.amazon.com/gp/product/B07M9HJLLW) - Ancient manual from the Qing dinasty, notorious for being one of the first introducing the screen-horse defense against central cannon.
+- [Plum Flower Springs Manual](https://www.amazon.com/gp/product/B07Z9XV5ST) - Ancient manual from the Qing dinasty, discussing in details several opening systems. It is also one of the few manuals discussing handicap games.
+- [Unparalleled and Chong Ben Tang Plum Flower Manuals](https://www.amazon.com/gp/product/B07S8XXTGX) - Ancient manual from the Qing dinasty, which presents puzzles and discusses foundations of the screen-horse defense.
+- [One Hundred Variations in Xiangqi & Marvelous Variations Xiangqi Manual](https://www.amazon.com/gp/product/B07VBXGSP9) - Collection of endgame compositions and puzzles from the Ming dinasty.
+- [Dreams of Divine Positions](https://www.amazon.com/gp/product/B077MMZ4TN) - One of the oldest collection of puzzles and endgame compositions.
+- [Lan Ke Shen Ji](https://www.amazon.com/gp/product/B07WNRVDCG) - Collection of relatively straightforward endgame compositions, suited particularly to train calculation skills.
+- Secret in the Tangerine, [volume 1](https://www.amazon.com/gp/product/B06Y4F5LS8), [volume 2](https://www.amazon.com/gp/product/B072HW6DCH), [volume 3](https://www.amazon.com/gp/product/B071S2H8XG), [volume 4](https://www.amazon.com/gp/product/B074Y7XGFF) - One of the oldest ancient manuals, considered a fundamental classic on the game.
+- Elegant pastime manual, [volumes 1 & 2](https://www.amazon.com/gp/product/B06Y4DWQ1X), [volumes 3 & 4](https://www.amazon.com/gp/product/B079KGQS7F), [volumes 5 & 6](https://www.amazon.com/gp/product/B07BB163LN) - Collection of puzzles and endgames compositions from the Ming dinasty. This book is also rich of Chinese culture, with each composition name being a verse from famous Chinese poems.
+- [Secret record of xiangqi](https://www.amazon.com/Ancient-Xiangqi-Classics-Secret-Record/dp/6260102119) - One of the first book from the Qing dinasty, popular for presenting more complex endgame problems compared to its predecessors.
 - [The xiangqi master from the cave](https://www.amazon.com/XiangQi-Master-Cave-Ping-Loong/dp/967143620X) - Ancient manual from the Song dinasty, presenting several games commentaries with detailed explanations.
 
 ### Games collections
