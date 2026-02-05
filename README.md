@@ -131,6 +131,7 @@ All websites allow to play with other people and watch ongoing games.
 
 - [xiangqi-setup](https://github.com/hartwork/xiangqi-setup) - Python script to generate board images from FEN or WXF formats.
 - [xiangqi-book-example](https://github.com/hartwork/xiangqi-book-example) - LaTeX template to write text about xiangqi, using `xiangqi-setup` to generate board images from FEN notation.
+- [棋弈江湖 (Xiangqi PWA)](https://github.com/dffge552/xiangqi-pwa-offline) - Full-featured xiangqi platform with the world's first open-source board recognition system. Includes complete ONNX models for chess piece detection and classification, AI analysis powered by Pikafish, 7300+ puzzle database, and professional game review. All models are MIT licensed. [Live demo](https://android-xiangqi-offline.netlify.app/)
 
 ## Social
 
