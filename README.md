@@ -36,6 +36,7 @@ All websites allow to play with other people and watch ongoing games.
 | [ClubXiangqi](https://www.clubxiangqi.com/)  |                      no                      |         no         |     no      |                     discussion forum                     |
 |     [PyChess](https://www.pychess.org/)      |       fairy-stockfish, multiple levels       |  fairy-stockfish   |     yes     | supports other chess variants, some lessons and articles |
 |      [PlayOK](https://www.playok.com/)       |                      no                      |         no         |     no      |    supports also other chess variants and board games    |
+|      [XiangqiOne](https://xiangqi.one)       |          pikafish, multiple levels           |      pikafish      |     yes     |          mobile apps (iOS/Android), lessons              |
 
 ## Games databases
 
