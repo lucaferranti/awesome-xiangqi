@@ -38,6 +38,7 @@ All websites allow to play with other people and watch ongoing games.
 |      [PlayOK](https://www.playok.com/)       |                      no                      |         no         |     no      |    supports also other chess variants and board games    |
 |      [XiangqiOne](https://xiangqi.one)       |          pikafish, multiple levels           |      pikafish      |     yes     |          mobile apps (iOS/Android), lessons              |
 |      [Mistboard](https://mistboard.com)      | pikafish, pikajieqi and fairy-stockfish, multiple levels |      pikafish      |     yes     | hidden information and flip variants (Fog Xiangqi, Jieqi, Banqi, Flip Jungle), games database, studies, board editor |
+| [XiangqiMaster](https://xiangqimaster.com) | own engine, four levels | own engine, plus post-game review | yes | lessons, Chinese and coordinate notation, perpetual check and chase adjudicated to WXF rules |
 
 ## Games databases
 
