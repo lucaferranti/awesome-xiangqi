@@ -24,6 +24,7 @@ Contributions to this repository are welcome! Check out the [contributing guidel
 
 - [World Xiangqi Federation website](https://www.wxf-xiangqi.org/) - Official website of the World Xiangqi Federation (WXF). It contains information on upcoming official tournaments, a list of xiangqi associations and federated players and the official [xiangqi tournament rules](https://www.wxf-xiangqi.org/images/wxf-rules/2018_World_XiangQi_Rules_English2018.pdf).
 - [Xqinenglish](https://www.xqinenglish.com) - Wide collection of articles on various aspects of the game, featuring embedded interactive boards to visualize the discussed concepts.
+- [Kỳ Lâm](https://kylam.vn) - Vietnamese-language xiangqi learning app (macOS/Windows, web; Android/iOS in preparation): video lessons and game collections, play against the built-in engine (20 levels), game library with CBL/CBR/XQF/PGN import and PGN/XQF/CBL export, position editor and opening-tree trainer. Free lessons; some courses are paid.
 
 ## Websites to play
 
@@ -114,6 +115,7 @@ All websites allow to play with other people and watch ongoing games.
 - [Sim Yip How channel](https://www.youtube.com/@mastersim) - Some game reviews in English.
 - [Singapore xiangqi academy](https://www.youtube.com/@singaporexiangqiacademy2445) - Lessons on some openings.
 - [Globalization of xiangqi](https://www.youtube.com/@FelixTSTan) - Endgame explanations and exercises.
+- [Kỳ Lâm channel](https://www.youtube.com/@kylamvn) - Lessons and classic game commentaries in Vietnamese.
 
 ## Engines
 
